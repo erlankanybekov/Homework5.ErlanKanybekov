@@ -36,16 +36,16 @@ public class Boss {
         Random random = new Random();
         int def = random.nextInt(5);
         if (def == 1){
-            System.out.println("TypeDefence: Pyro kinesis");
+            System.out.println("TypeDefence: Pyrokinesis");
         }
         if (def == 2){
-            System.out.println("TypeDefence: Aero kinesis");
+            System.out.println("TypeDefence: Aerokinesis");
         }
         if ( def == 3){
             System.out.println("TypeDefence: Telekinesis");
         }
         if (def == 4){
-            System.out.println("TypeDefence: Hydro kinesis");
+            System.out.println("TypeDefence: Hydrokinesis");
         }
     }
 
