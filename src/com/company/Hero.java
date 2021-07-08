@@ -32,16 +32,16 @@ public class Hero {
      Random random = new Random();
      int power = random.nextInt(5);
      if (power == 1){
-         System.out.println("using power: pyro kinesis ");
+         System.out.println("using power: Pyrokinesis ");
      }
         if (power == 2){
-            System.out.println("using power: Aero kinesis");
+            System.out.println("using power: Aerokinesis");
         }
         if ( power == 3){
             System.out.println("using power: Telekinesis");
         }
         if (power == 4){
-            System.out.println("using power: Hydro kinesis");
+            System.out.println("using power: Hydrokinesis");
         }
     }
 
